@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{$stylepath}global.css" type="text/css" />
